@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input {
+    width: 100%;  /* 100% + 10px + 10px (reason it goes overboard)*/ 
+    padding: 10px;
+    margin-bottom: 3px;
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+}
+
+button {
+    color: white;
+    background-color: #5f9341;
+    padding: 10px 20px; /* 1st value(top & bottom), 2nd value (left & right)  */
+    border: none;
+    font-weight: bold;
+}
