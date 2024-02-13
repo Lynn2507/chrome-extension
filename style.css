@@ -14,7 +14,7 @@ input {
     border: 1px solid #5f9341;
 }
 
-#input-btn {
+#input-btn, #save-tab-btn{
     color: white;
     background-color: #5f9341;
     padding: 10px 20px; /* 1st value(top & bottom), 2nd value (left & right)  */
