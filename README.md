@@ -1,5 +1,5 @@
 # Chrome Extension
-This extension allow users to add the webpage that they are currently add and add save the link by clicking on a button. Users can also delete the link that they have added.
+This extension allow users to add the webpage that they are currently on and add save the link by clicking on a button. Users can also delete the link that they have added.
 
 # To use this on your chrome
 - Clone or fork this project
